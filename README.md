@@ -26,8 +26,8 @@ Siga os passos abaixo para configurar o projeto localmente:
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/meus-produtos.git
-   cd meus-produtos
+   git clone https://github.com/MatheusGadelha23/frontend-cart.git
+   cd frontend-cart
    ```
 
 2. **Instale as dependências**:
