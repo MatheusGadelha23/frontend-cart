@@ -38,11 +38,11 @@ Siga os passos abaixo para configurar o projeto localmente:
 
 3. **Variáveis de Ambiente**
 
-   O projeto utiliza variáveis de ambiente para configurar a URL da API. Para isso, você deve criar uma cópia do arquivo `env_example`renomeando como `.env` na raiz do projeto.
+   O projeto utiliza variáveis de ambiente para configurar a URL da API. Para isso, você deve criar uma cópia do arquivo `.env_example`renomeando como `.env` na raiz do projeto.
 
    ### Exemplo de Arquivo `.env`
 
-   Faça uma cópia do arquivo `env_example`renomeando como `.env` na raiz do projeto:
+   Faça uma cópia do arquivo `.env_example`renomeando como `.env` na raiz do projeto:
 
    ```plaintext
    VUE_APP_API_URL=http://localhost:3000/api
